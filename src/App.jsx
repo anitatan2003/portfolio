@@ -30,7 +30,7 @@ export default function App() {
         </div>
         
         <div className="hero-image-container">
-              <img src="./public/Subject.png" alt="Anita" className='hero-image' />
+              <img src="src/assets/Subject.png" alt="Anita" className='hero-image' />
         </div> 
       </header>
 
