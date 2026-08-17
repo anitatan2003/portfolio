@@ -1,6 +1,6 @@
 # Anita Tan - Technical Portfolio
 
-A personal portfolio website showcasing my engineering projects, focusing on artificial intelligence architecture, RAG pipelines, and full-stack software development. 
+A personal portfolio website showcasing my engineering projects, focusing on full-stack software development and artificial intelligence architecture. 
 
 ## Tech Stack
 
