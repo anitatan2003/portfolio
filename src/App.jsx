@@ -1,5 +1,6 @@
 import React from 'react';
 import './index.css';
+import headshot from "./assets/Subject.png"
 
 export default function App() {
   return (
@@ -30,7 +31,7 @@ export default function App() {
         </div>
         
         <div className="hero-image-container">
-              <img src="src/assets/Subject.png" alt="Anita" className='hero-image' />
+              <img src={headshot} alt="Anita" className='hero-image' />
         </div> 
       </header>
 
